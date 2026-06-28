@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vergiss-mich-nicht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Vergiss mich nicht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vergiss-mich-nicht/) |
+| **Get License** | [Get License For Vergiss mich nicht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vergiss-mich-nicht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die Stadt ist am Schlafen, doch ich such' deinen Blick
+> Ein Trip in mei'm Benz und es gibt kein Zurück
+> Dein Body ist pure Magic, dein Vibe ist so echt
+> Vergiss mich nicht, Baby, die Nacht ist unser Recht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
