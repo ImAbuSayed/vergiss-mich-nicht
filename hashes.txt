@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Vergiss mich nicht
+
+This log tracks the cryptographic history and versioning for the song **Vergiss mich nicht** (vergiss-mich-nicht).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T14:17:08.741852 | `v1` | `51d66ad7fcfef6a8d2eff83748e6b6929af22e494723c969bc195c0ed9f01e0c` | `5121f013e5f4068fcf087b8a4a3fe52afefdd17ca8281953080f6c7d8e488eb8` | `2026-06-28_vergiss-mich-nicht-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

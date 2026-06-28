@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vergiss-mich-nicht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Vergiss mich nicht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vergiss-mich-nicht/) |
+| **Get License** | [Commercial Licensing for Vergiss mich nicht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vergiss-mich-nicht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `51d66ad7fcfef6a8d2eff83748e6b6929af22e494723c969bc195c0ed9f01e0c` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
